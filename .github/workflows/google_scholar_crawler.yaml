@@ -1,6 +1,7 @@
 name: Get Citation Data
 
 on:
+ workflow_dispatch:
  label:
     types:
       - created
