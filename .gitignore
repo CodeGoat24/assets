@@ -1,0 +1,4 @@
+google_scholar_crawler/results/
+__pycache__/
+*.pyc
+.DS_Store
